@@ -14,5 +14,11 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LATAEVIA/journal/issues"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1"
+  },
+  "dependencies": {
+    "moment": "^2.13.0"
   }
 }

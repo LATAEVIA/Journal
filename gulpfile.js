@@ -2,6 +2,8 @@ var gulp = require('gulp');
 var browserify = require('browserify');
 var source = require('vinyl-source-stream');
 var concat = require('gulp-concat');
+var moment = require('moment');
+
 
 gulp.task('myTask', function(){
   console.log('hello gulp');
