@@ -1,8 +1,6 @@
 // exports.journal = function() {
   //business logic
 
-  exports.myName = "Diane";
-
   exports.JournalEntry = function (title, timeStamp, bodyText) {
     this.newTitle = title;
     this.newTimeStamp = timeStamp;

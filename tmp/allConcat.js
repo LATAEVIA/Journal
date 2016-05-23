@@ -1,4 +1,6 @@
 var myJournalModule = require('./../js/journal.js');
+var moment = require('moment');
+
 
 //user interface logic
 $(document).ready(function() {
